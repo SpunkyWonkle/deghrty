@@ -1,0 +1,25 @@
+header{
+    box-shadow: 20px;
+    padding-top: 5px;
+    margin-top: 5px;
+}
+
+footer{
+    box-shadow: 20px;
+    padding-top: 5px;
+    margin-top: 5px;
+}
+
+th.png{
+    color: yellow;
+    font-style: comic;
+    border-radius: 10px;
+    padding-bottom: 5px;
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
